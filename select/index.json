@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Reweave",
+  "base_artist": "鈴木このみ",
+  "createdAt": "2026-01-11T14:38:02.238561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reweave",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/01_Reweave_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reweave",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/02_Reweave_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "REWEAVE(ENGLISH VERSION)",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/03_REWEAVE(ENGLISH_VERSION)_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reweave - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/04_Reweave_-_Russian_ver._Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reweave",
+      "artist": "Konomi Suzuki (鈴木このみ)",
+      "has_synced": true,
+      "path": "select/05_Reweave_Konomi_Suzuki_(鈴木このみ).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reweave",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/06_Reweave_Sati_Akura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reweave",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_01_Reweave_鈴木このみ.txt"
+    }
+  ]
+}
